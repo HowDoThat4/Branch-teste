@@ -1,0 +1,30 @@
+{
+  "id": 666,
+  "nome": "Cabeça de Gelo",
+  "email": "naorespondo@zapzap.com",
+  "status": "vivendo de boleto",
+  "nivelEstresse": 9000,
+  "memeFavorito": "é verdade esse bilete",
+  "humorAtual": "trabalhando igual condenado",
+  "skills": [
+    "procrastinação avançada",
+    "especialista em abrir aba e não fechar",
+    "debug na base do ódio"
+  ],
+  "frasesClassicas": [
+    "se der ruim a gente vê depois",
+    "funcionava na minha máquina",
+    "confia no processo"
+  ],
+  "energiaSocial": -12,
+  "modoDeVida": {
+    "dorme": "quando dá",
+    "come": "o que tiver",
+    "sobrevive": true
+  },
+  "historicoRecente": {
+    "tentativasDeSerProdutivo": 3,
+    "horasNoScrollInfinito": 7,
+    "vontadeDeDesinstalarTudo": "alta"
+  }
+}
